@@ -59,8 +59,8 @@ $ → artinya "akhir teks".
 - Citraweb - TUTORIAL QUEUE TREE DAN HTB MIKROTIK PALING LENGKAP - QOS [ENG SUB]  
 https://youtu.be/tsW4kOM1L8g?si=zGytQzJQWUFgEET-  
 - MikroTik - MikroTips: How to firewall  
-https://youtu.be/hMj80ZIVBQs?si=j5TbeaJiUehqtCIL
-- MikroTik - Network Address Translation - NAT secrets they didn't tell you
-https://youtu.be/vt819u0QEtg?si=I_Y8Ga5GYU9E2s5y
-- MikroTik - Your first DHCP configuration
-https://www.youtube.com/watch?v=kF4b_t6W5fM
+https://youtu.be/hMj80ZIVBQs?si=j5TbeaJiUehqtCIL  
+- MikroTik - Network Address Translation - NAT secrets they didn't tell you  
+https://youtu.be/vt819u0QEtg?si=I_Y8Ga5GYU9E2s5y  
+- MikroTik - Your first DHCP configuration  
+https://www.youtube.com/watch?v=kF4b_t6W5fM  
