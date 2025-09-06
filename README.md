@@ -1,2 +1,2 @@
-# LAB-48-DHCP-addresslist-Queue-tree-Firewall-filter-Mangle
+# LAB-48-Membatasi-akses-media-sosial-dan-membagi-bandwidth
 Tahap 2
